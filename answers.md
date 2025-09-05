@@ -73,4 +73,26 @@ Date:   Fri Sep 5 14:46:32 2025 -0400
     Initial Comit
 
 Answer 9
+On branch main
+nothing to commit, working tree clean
 
+Answer 10
+Yes
+
+Answer 11
+To https://github.com/nbiddinger/git-lab
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/nbiddinger/git-lab'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+It failed because my local copy does not contain the changes that I mande on the website
+
+Answer 12
+Yes, git pull downloaded the changes I made online to the local copy
+
+Answer 13
+.  ..  .git  .gitignore  README.md
